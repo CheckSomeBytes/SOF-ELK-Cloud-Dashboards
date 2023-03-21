@@ -3,7 +3,7 @@
 This repository contains a collection of free visualizations and dashboards that are compatible with the SOF-ELK open-source project. These saved objects are designed to help security professionals analyze and pivot through cloud logs more efficiently. The project currently supports cloud log types from AWS, Azure, Google Cloud, Google Workspace, and Office 365.
 
 All objects in this project are tagged with "CheckSomeBytes - Cloud" for easy management, allowing users to remove or update them at a later date.
-![navigationPane](Screenshots/navigationPane.png)
+![navigationPane](Screenshots/awsHelp.png)
 29 Dashboards across four major cloud providers that each have a unique view of the data. 
 
 AWS - Overview  
