@@ -5,14 +5,12 @@ This repository contains a collection of free visualizations and dashboards that
 All objects in this project are tagged with "CheckSomeBytes - Cloud" for easy management, allowing users to remove or update them at a later date.
 
 ## Navigation 
-The dashboards are linked together with a navigation pane that runs along to the top of each of the dashboards.
-![awsNav](Screenshots/awsNav.png)
-*AWS Navbar* 
-![gcpNav](Screenshots/gcpNav.png)
-*GCP Navbar* 
-
-In practice this makes for a fluid experience that allows the user to bounce around between cloud platforms as well as different views within each of the platforms
+The dashboards are linked together with a navigation pane that runs along to the top of each of the dashboards that allows the user to bounce around between cloud platforms. 
 ![navigationPane](Screenshots/navigationPane.gif)
+<br><br>
+
+In practice this makes for a fluid experience that enables the user to pivot effortlessly through platforms different activity types. 
+![navigatingDashboards](Screenshots/navigatingDashboards.gif)
 
 ---
 ## Dashboards
