@@ -11,7 +11,7 @@ The dashboards are linked together with a navigation pane that runs along to the
 ![gcpNav](Screenshots/gcpNav.png)
 *GCP Navbar* 
 
-In practice this makes for a fuild experience that allows the user to bounce around between cloud platforms as well as different views within each of the platforms
+In practice this makes for a fluid experience that allows the user to bounce around between cloud platforms as well as different views within each of the platforms
 ![navigationPane](Screenshots/navigationPane.gif)
 
 ---
