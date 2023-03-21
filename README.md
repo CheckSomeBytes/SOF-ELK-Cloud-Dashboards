@@ -3,8 +3,24 @@
 This repository contains a collection of free visualizations and dashboards that are compatible with the SOF-ELK open-source project. These saved objects are designed to help security professionals analyze and pivot through cloud logs more efficiently. The project currently supports cloud log types from AWS, Azure, Google Cloud, Google Workspace, and Office 365.
 
 All objects in this project are tagged with "CheckSomeBytes - Cloud" for easy management, allowing users to remove or update them at a later date.
-![navigationPane](Screenshots/awsHelp.png)
-29 Dashboards across four major cloud providers that each have a unique view of the data. 
+
+## Navigation 
+The dashboards are linked together with a navigation pane that runs along to the top of each of the dashboards.
+![awsNav](Screenshots/awsNav.png)
+*AWS Navbar* 
+![gcpNav](Screenshots/gcpNav.png)
+*GCP Navbar* 
+
+In practice this makes for a fuild experience that allows the user to bounce around between cloud platforms as well as different views within each of the platforms
+![navigationPane](Screenshots/navigationPane.gif)
+
+---
+## Dashboards
+Each of the dashboards filters data to a single view of the data and provides acitvity specific to that perspective. 
+![navigationPane](Screenshots/awsSignIn.png)
+*AWS Sign-In Dashboards*  
+
+There are 29 Dashboards across four major cloud providers that each have a unique view of the data. 
 
 AWS - Overview  
 AWS - Compute  
@@ -38,8 +54,14 @@ O365 - Exchange
 O365 - Logins  
 O365 - Sharepoint  
 
+--- 
 
-Eight additional "Help Dashboards". These do not provide any additional views of the data but instead act as documentation for the available fields.   
+## Built-In Documentation 
+Within the dashboards there are several pages to help users orient themselves with the log fields and to get started making queries.  
+![navigationPane](Screenshots/awsHelp.png)
+
+
+There are 8 todal "Help Dashboards". These do not provide any additional views of the data but instead act as documentation for the available fields.   
 Cloud Help - Overview  
 Cloud Help - AWS Fields   
 Cloud Help - Azure Fields  
