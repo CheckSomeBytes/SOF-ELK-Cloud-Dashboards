@@ -9,7 +9,7 @@ The dashboards are linked together with a navigation pane that runs along to the
 ![navigationPane](Screenshots/navigationPane.gif)
 <br><br>
 
-In practice this makes for a fluid experience that enables the user to pivot effortlessly through platforms different activity types. 
+In practice this makes for a fluid experience that enables the user to pivot effortlessly through platforms and different activity types. 
 ![pivotingDashboards](Screenshots/pivotingDashboards.gif)
 
 ---
