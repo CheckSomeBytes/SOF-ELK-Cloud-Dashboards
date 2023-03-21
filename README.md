@@ -1,4 +1,4 @@
-# SkyBoard: Cloud Dashboards for SOF-ELK
+# Cloud Dashboards for SOF-ELK
 
 This repository contains a collection of free visualizations and dashboards that are compatible with the SOF-ELK open-source project. These saved objects are designed to help security professionals analyze and pivot through cloud logs more efficiently. The project currently supports cloud log types from AWS, Azure, Google Cloud, Google Workspace, and Office 365.
 
