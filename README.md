@@ -27,18 +27,18 @@ AWS - Identity
 AWS - Sign-in  
 AWS - Storage  
  
-Azure - Overview  
-Azure - Compute  
-Azure - IAM  
-Azure - Login  
+Azure - Overview * 
+Azure - Compute  *
+Azure - IAM *
+Azure - Login 
 Azure - Network  
 Azure - Storage  
 
 GCP - Overview  
 GCP - Compute  
-GCP - IAM  
+GCP - IAM *
 GCP - Storage  
-GCP - VM Logs  
+GCP - VM Logs *
 
 GWS - Overview  
 GWS - Admin  
@@ -52,6 +52,8 @@ O365 - Exchange
 O365 - Logins  
 O365 - Sharepoint  
 
+* Incomplete/WIP
+
 --- 
 
 ## Built-In Documentation 
@@ -62,13 +64,14 @@ Within the dashboards there are several pages to help users orient themselves wi
 There are 8 todal "Help Dashboards". These do not provide any additional views of the data but instead act as documentation for the available fields.   
 Cloud Help - Overview  
 Cloud Help - AWS Fields   
-Cloud Help - Azure Fields  
-Cloud Help - Google Cloud Fields  
-Cloud Help - Google Workspace Fields  
-Cloud Help - Office 365 Fields  
-Cloud Help - Example Queries  
+Cloud Help - Azure Fields * 
+Cloud Help - Google Cloud Fields *
+Cloud Help - Google Workspace Fields *  
+Cloud Help - Office 365 Fields *
+Cloud Help - Example Queries *
 Cloud Help - FAQS  
 
+* Incomplete/WIP
 
 ## Table of Contents
 
